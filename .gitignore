@@ -1,0 +1,13 @@
+/build/
+.vscode/
+.idea/
+*.txt
+*.exe
+*.o
+*.a
+*.so
+*.dll
+*.out
+*.code-workspace
+*.swp
+/lib/
